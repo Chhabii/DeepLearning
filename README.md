@@ -44,7 +44,7 @@ Image Classification is the process of labeling or characterizing group of pixel
 
 
 
-
+<a href="/docs/readme_np.md">नेपाली</a>
 
 
 
