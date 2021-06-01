@@ -1,4 +1,9 @@
-# 100 Days of DeepLearning
+# [100 Days of DeepLearning](https://github.com/RxnAch/DeepLearning)
+
+| 📖 Books | 
+|------------ | 
+| 1. [Dive into Deep Learning](https://d2l.ai/index.html) |
+
 
 ## [Day 1](https://github.com/RxnAch/DeepLearning/blob/main/Linear_regression_from_Scratch.ipynb)
 ⚪PyTorch Basics #Tensors
