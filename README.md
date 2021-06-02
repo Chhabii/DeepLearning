@@ -42,8 +42,17 @@ Image Classification is the process of labeling or characterizing group of pixel
 ![1](https://user-images.githubusercontent.com/60286478/120360174-2e6dfb80-c328-11eb-868a-4cc4a346c42d.png)
 ![3](https://user-images.githubusercontent.com/60286478/120360189-3463dc80-c328-11eb-8b4c-e292d876ef37.png)
 
+# [Day4](https://github.com/RxnAch/DeepLearning/blob/main/Implementation_of_Softmax_Regression.ipynb)
 
 
+🦝Implementation of Softmax Regression From Scratch
+With softmax regression, we can train models for multiclass classification.
+The training loop of softmax regression is very similar to that in linear regression: retrieve and read data, define models and loss functions, then train models using optimization algorithms. As you will soon find out, most common deep learning models have similar training procedures.
+
+![1](https://user-images.githubusercontent.com/60286478/120497821-74859680-c3de-11eb-984a-0a35dd29c569.png)
+![2](https://user-images.githubusercontent.com/60286478/120497833-764f5a00-c3de-11eb-8526-98b55bffb38a.png)
+![4](https://user-images.githubusercontent.com/60286478/120497865-7baca480-c3de-11eb-9549-650cbda4f418.png)
+![predi](https://user-images.githubusercontent.com/60286478/120497870-7cddd180-c3de-11eb-8f30-dcdd26881f7f.png)
 
 
 
