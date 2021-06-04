@@ -55,7 +55,19 @@ The training loop of softmax regression is very similar to that in linear regres
 ![predi](https://user-images.githubusercontent.com/60286478/120497870-7cddd180-c3de-11eb-8f30-dcdd26881f7f.png)
 
 
+# [Day6](https://github.com/RxnAch/DeepLearning/blob/main/Non_Linear_Activation_Functions_.ipynb)
 
+From Linear to Non Linear:
+MultiLayerPerceptron adds one or multiple fully-connected hidden layers between the output and input layers and transforms the output of the hidden layer via an activation function.
+Commonly used activation functions include the ReLU function, the sigmoid function and the tanh function.
+
+The sigmoid and hyperbolic tangent activation functions cannot be used in networks with many layers due to the vanishing gradient problem.
+The rectified linear activation function overcomes the vanishing gradient problem, allowing models to learn faster and perform better.
+
+
+![1](https://user-images.githubusercontent.com/60286478/120820249-14285d80-c574-11eb-83aa-bea6c9ff983b.png)
+
+![2](https://user-images.githubusercontent.com/60286478/120820260-18547b00-c574-11eb-9150-60a45424871d.png)
 
 
 
