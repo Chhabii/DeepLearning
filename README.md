@@ -70,4 +70,15 @@ The rectified linear activation function overcomes the vanishing gradient proble
 ![2](https://user-images.githubusercontent.com/60286478/120820260-18547b00-c574-11eb-9150-60a45424871d.png)
 
 
+# [Day9](https://github.com/RxnAch/DeepLearning/blob/main/Model_Selection_%2C_Underfitting_%2COverfitting.ipynb)
+Model Selection is the task of selecting a statistical model from a set of candidate models( third degree polynomial regression model is far better than linear and higher degree polynomial(as in snapshots))
 
+Underfitting refers to a model that can neither model the training data nor generalize to new data.
+
+Overfitting refers to a model that models the training data too well but not testing data.
+
+(For eg. a student who rote notes day and night won't do well(overfitting) than a student who understands concepts and apply to related questions will do well(normal fitting) in an exam with new questions. 😁 And some legends study nothing and do nothing in exam(Underfitting))
+
+![1](https://user-images.githubusercontent.com/60286478/121041610-9f9f2a00-c7d2-11eb-8131-acaf07ddd41f.png)
+![2](https://user-images.githubusercontent.com/60286478/121041623-a2018400-c7d2-11eb-8ed0-4921c36e587f.png)
+![3](https://user-images.githubusercontent.com/60286478/121041640-a463de00-c7d2-11eb-9368-acd38fd799f9.png)
