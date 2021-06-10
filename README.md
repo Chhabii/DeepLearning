@@ -82,3 +82,19 @@ Overfitting refers to a model that models the training data too well but not tes
 ![1](https://user-images.githubusercontent.com/60286478/121041610-9f9f2a00-c7d2-11eb-8131-acaf07ddd41f.png)
 ![2](https://user-images.githubusercontent.com/60286478/121041623-a2018400-c7d2-11eb-8ed0-4921c36e587f.png)
 ![3](https://user-images.githubusercontent.com/60286478/121041640-a463de00-c7d2-11eb-9368-acd38fd799f9.png)
+
+
+# [Day10](https://github.com/RxnAch/DeepLearning/blob/main/Norms_and_Weight_Decay.ipynb)
+
+Weight decay(commonly called L2 regularization) is most widely used technique for regularizing parametric machine learning models.
+The model which uses L2 regularization is called Ridge Regression.
+Ridge regression adds “squared magnitude” of coefficient as penalty term to the loss function. 
+
+Another is L1 regularization. The model which uses L2 regularization is called Lasso Regression. It adds "Absolute magnitude" of coefficient as penalty term to the loss function.
+
+The key difference between these techniques is that Lasso shrinks the less important feature’s coefficient to zero thus, removing some feature altogether. So, this works well for feature selection in case we have a huge number of features.
+Regularization helps to get rid of overfitting.
+
+![image](https://user-images.githubusercontent.com/60286478/121448938-69230400-c9b8-11eb-8d8f-7bdba8f66b78.png)
+
+![image](https://user-images.githubusercontent.com/60286478/121448951-6de7b800-c9b8-11eb-8e0f-5aeb835c39a7.png)
