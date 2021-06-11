@@ -98,3 +98,14 @@ Regularization helps to get rid of overfitting.
 ![image](https://user-images.githubusercontent.com/60286478/121448938-69230400-c9b8-11eb-8d8f-7bdba8f66b78.png)
 
 ![image](https://user-images.githubusercontent.com/60286478/121448951-6de7b800-c9b8-11eb-8e0f-5aeb835c39a7.png)
+
+# [Day11](https://github.com/RxnAch/DeepLearning/blob/main/Norms_and_Weight_Decay.ipynb)
+
+![image](https://user-images.githubusercontent.com/60286478/121674661-0f166180-cad2-11eb-9c81-81c69c40194c.png)
+
+![image](https://user-images.githubusercontent.com/60286478/121674676-163d6f80-cad2-11eb-8d49-3f4b21b2ae41.png)
+
+
+# [Day12](https://github.com/RxnAch/DeepLearning/blob/main/Predicting_House_Prices_on_kaggle.ipynb)
+
+![image](https://user-images.githubusercontent.com/60286478/121674619-ff971880-cad1-11eb-87c7-db4c4dc95a0f.png)
