@@ -112,3 +112,18 @@ Regularization helps to get rid of overfitting.
 # [Day12](https://github.com/RxnAch/DeepLearning/blob/main/Predicting_House_Prices_on_kaggle.ipynb)
 
 ![image](https://user-images.githubusercontent.com/60286478/121674619-ff971880-cad1-11eb-87c7-db4c4dc95a0f.png)
+
+
+# [Day13](https://github.com/RxnAch/DeepLearning/blob/main/Layers_and_Blocks.ipynb)
+
+
+⏸ Layers and Blocks:
+
+Layers in a networks are blocks. Many layers can comprise a block.
+Many blocks can comprise a block.
+Sequential Concatenations of layers and blocks are handled by the #Sequential Block.
+
+
+![2](https://user-images.githubusercontent.com/60286478/121767253-d2e90c80-cb76-11eb-9565-29d7b0ab34c1.png)
+![3](https://user-images.githubusercontent.com/60286478/121767256-d41a3980-cb76-11eb-8616-e8fb8cb7590a.png)
+![1](https://user-images.githubusercontent.com/60286478/121767257-d41a3980-cb76-11eb-8b62-90d6e6738a9a.png)
