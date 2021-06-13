@@ -127,3 +127,23 @@ Sequential Concatenations of layers and blocks are handled by the #Sequential Bl
 ![2](https://user-images.githubusercontent.com/60286478/121767253-d2e90c80-cb76-11eb-9565-29d7b0ab34c1.png)
 ![3](https://user-images.githubusercontent.com/60286478/121767256-d41a3980-cb76-11eb-8616-e8fb8cb7590a.png)
 ![1](https://user-images.githubusercontent.com/60286478/121767257-d41a3980-cb76-11eb-8b62-90d6e6738a9a.png)
+
+
+
+# [Day14](https://github.com/RxnAch/DeepLearning/blob/main/Parameter_Management.ipynb)
+
+# Parameter Management:
+
+In this section, we cover the following:
+- Accessing parameters.
+- Parameters Initialization.
+- sharing parameters.
+
+Note: **Why Initialize Weights?**
+
+The aim of weight initialization is to prevent layer activation outputs from exploding or vanishing during the course of a forward pass through a deep neural network. If either occurs, loss gradients will either be too large or too small to flow backwards beneficially, and the network will take longer to converge, if it is even able to do so at all.
+
+![111](https://user-images.githubusercontent.com/60286478/121796083-1bb3ca80-cc36-11eb-9c46-4ae327d89ded.png)
+![1](https://user-images.githubusercontent.com/60286478/121796084-1d7d8e00-cc36-11eb-9f21-867414f5d7b4.png)
+![3](https://user-images.githubusercontent.com/60286478/121796087-21111500-cc36-11eb-83df-c78e8b5f1861.png)
+
