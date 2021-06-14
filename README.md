@@ -147,3 +147,8 @@ The aim of weight initialization is to prevent layer activation outputs from exp
 ![1](https://user-images.githubusercontent.com/60286478/121796084-1d7d8e00-cc36-11eb-9f21-867414f5d7b4.png)
 ![3](https://user-images.githubusercontent.com/60286478/121796087-21111500-cc36-11eb-83df-c78e8b5f1861.png)
 
+# [Day15](https://github.com/RxnAch/Dive-into-Deep-Learning/blob/main/Custom_Layers.ipynb)
+
+![1](https://user-images.githubusercontent.com/60286478/121834224-eff41b80-cced-11eb-9d3e-f229178b3df6.png)
+![2](https://user-images.githubusercontent.com/60286478/121834229-f1254880-cced-11eb-89a4-d3eb6a2e8a0f.png)
+
