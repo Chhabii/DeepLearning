@@ -154,11 +154,19 @@ The aim of weight initialization is to prevent layer activation outputs from exp
 
 # [Day16](https://github.com/RxnAch/DeepLearning)
 
+Convolutional neural networks (CNN):
+CNN are a type of neural network which have been widely used for image recognition tasks. In convolutional layers, inputs tensor and a kernal tensor are combined to produce an output tensor through a cross-correlation operation.
+
 ![da1](https://user-images.githubusercontent.com/60286478/122501599-bcc6ca80-d014-11eb-8a63-1df220810d5e.png)
 ![1_hOI0jW3CcS_yuxcmJIYjKw](https://user-images.githubusercontent.com/60286478/122501611-c05a5180-d014-11eb-87f3-e42300080324.gif)
 
 
 # [Day17](https://github.com/RxnAch/DeepLearning)
+
+Convolutional Neural Network:
+-Padding and Stride:
+Stride denotes how many steps we are moving in each steps in convolution. By default it is one. Useful to reduce unnecessary computation.
+We can observe that the size of output is smaller that input. To maintain the dimension of output as in input , we use padding. Padding is a process of adding zeros to the input matrix symmetrically.
 
 ![actual 1](https://user-images.githubusercontent.com/60286478/122501646-d0723100-d014-11eb-8dfa-e701ce048094.png)
 ![actual 2](https://user-images.githubusercontent.com/60286478/122501653-d1a35e00-d014-11eb-8274-4645b65b327c.png)
