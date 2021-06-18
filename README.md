@@ -152,3 +152,16 @@ The aim of weight initialization is to prevent layer activation outputs from exp
 ![1](https://user-images.githubusercontent.com/60286478/121834224-eff41b80-cced-11eb-9d3e-f229178b3df6.png)
 ![2](https://user-images.githubusercontent.com/60286478/121834229-f1254880-cced-11eb-89a4-d3eb6a2e8a0f.png)
 
+# [Day16](https://github.com/RxnAch/DeepLearning)
+
+![da1](https://user-images.githubusercontent.com/60286478/122501599-bcc6ca80-d014-11eb-8a63-1df220810d5e.png)
+![1_hOI0jW3CcS_yuxcmJIYjKw](https://user-images.githubusercontent.com/60286478/122501611-c05a5180-d014-11eb-87f3-e42300080324.gif)
+
+
+# [Day17](https://github.com/RxnAch/DeepLearning)
+
+![actual 1](https://user-images.githubusercontent.com/60286478/122501646-d0723100-d014-11eb-8dfa-e701ce048094.png)
+![actual 2](https://user-images.githubusercontent.com/60286478/122501653-d1a35e00-d014-11eb-8274-4645b65b327c.png)
+
+![0_TsOwf6kzkUV8LZBX](https://user-images.githubusercontent.com/60286478/122501660-d405b800-d014-11eb-9721-f0752eb9065d.gif)
+
