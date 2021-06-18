@@ -149,6 +149,12 @@ The aim of weight initialization is to prevent layer activation outputs from exp
 
 # [Day15](https://github.com/RxnAch/Dive-into-Deep-Learning/blob/main/Custom_Layers.ipynb)
 
+🔱Custom Layers:
+
+Researchers have invented layers specifically for handling images, text, looping over sequential data, and performing dynamic programming.
+Here, I invented a simple layer with and without parameter initialized.
+
+
 ![1](https://user-images.githubusercontent.com/60286478/121834224-eff41b80-cced-11eb-9d3e-f229178b3df6.png)
 ![2](https://user-images.githubusercontent.com/60286478/121834229-f1254880-cced-11eb-89a4-d3eb6a2e8a0f.png)
 
