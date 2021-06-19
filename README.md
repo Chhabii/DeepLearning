@@ -179,3 +179,18 @@ We can observe that the size of output is smaller that input. To maintain the di
 
 ![0_TsOwf6kzkUV8LZBX](https://user-images.githubusercontent.com/60286478/122501660-d405b800-d014-11eb-9721-f0752eb9065d.gif)
 
+# [Day18](https://github.com/RxnAch/DeepLearning)
+
+Convolutional Neural Network:
+-Multiple Input and Multiple Output Channels:
+
+Talking about images, each image have the standard RGB channels to indicate the amount of Red, Green and Blue. Each RGB image has shape 3 x h x w , where 3 refers to the channel dimension.
+
+The first step of 2D convolution for multi-channels: each of the kernels in the filter are applied to three channels in the input layer, separately. Then these three channels are summed together (element-wise addition) to form one single channel (3 x 3 x 1).
+
+Likewise, in the code, we input 2x3x3 with 2 channels which is cross-correlated with kernel with the shape of 2x2x2 with 2 channels which results in a 2d output of shape 2x2.
+
+It works exactly as shown in gif.
+
+![1](https://user-images.githubusercontent.com/60286478/122630047-ce75a400-d0e0-11eb-88be-d22b32386c76.png)
+![main-qimg-b662a8fc3be57f76c708c171fcf29960](https://user-images.githubusercontent.com/60286478/122630049-d1709480-d0e0-11eb-9b43-774a6e9a4123.gif)
