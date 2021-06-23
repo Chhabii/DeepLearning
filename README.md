@@ -194,3 +194,51 @@ It works exactly as shown in gif.
 
 ![1](https://user-images.githubusercontent.com/60286478/122630047-ce75a400-d0e0-11eb-88be-d22b32386c76.png)
 ![main-qimg-b662a8fc3be57f76c708c171fcf29960](https://user-images.githubusercontent.com/60286478/122630049-d1709480-d0e0-11eb-9b43-774a6e9a4123.gif)
+
+
+# [Day19](https://github.com/RxnAch/DeepLearning)
+
+Convolutional Neural Network:
+Pooling:
+Like convolutional layers, pooling operators consist of a fixed-shape window that is slid over all regions in the input according to its stride, computing a single output for each location traversed by the fixed-shape window.
+ However, unlike the cross-correlation computation of the inputs and kernels in the convolutional layer, the pooling layer contains no parameters (there is no kernel). Instead, pooling operators are deterministic, typically calculating either the maximum or the average value of the elements in the pooling window. These operations are called maximum pooling (max pooling for short) and average pooling, respectively.
+
+We can easily convert this theory into programmable code as well as visualization. If you find this insightful, please code it by yourself and add padding and let me know how you did it.
+![image](https://user-images.githubusercontent.com/60286478/123079653-dd8b8780-d43b-11eb-8aff-ec3f3046771e.png)
+
+# [Day20](https://github.com/RxnAch/DeepLearning)
+Convolutional Neural Network (LeNet):
+LeNet-5 is a very efficient convolutional neural network for handwritten character recognition.
+
+Structure of LeNet Network:
+LeNet5 is a small network, it contains the basic modules of deep learning: convolutional layer, nonlinearities, pooling layer, and fully connected layer.
+
+The basic units in each convolutional block are a convolutional layer, a sigmoid activation function, and a subsequent average pooling operation. Note that while ReLUs and max-pooling work better, these discoveries had not yet been made in the 1990s.
+
+![image](https://user-images.githubusercontent.com/60286478/123079817-00b63700-d43c-11eb-85c9-c385e3cad892.png)
+
+
+# [Day21](https://github.com/RxnAch/DeepLearning)
+
+
+Deep Convolutional Neural Networks (AlexNet) :
+The architecture consists of eight layers: five convolutional layers and three fully-connected layers. 
+AlexNet is an incredibly powerful model capable of achieving high accuracies on very challenging datasets. However, removing any of the convolutional layers will drastically degrade AlexNet’s performance. AlexNet is a leading architecture for any object-detection task and may have huge applications in the computer vision sector of artificial intelligence problems. In the future, AlexNet may be adopted more than CNNs for image tasks.
+
+AlexNet has a similar structure to that of LeNet, but uses more convolutional layers and a larger parameter space to fit the large-scale ImageNet dataset.
+Dropout, ReLU, and preprocessing were the other key steps in achieving excellent performance in computer vision tasks.
+
+![image](https://user-images.githubusercontent.com/60286478/123080023-39561080-d43c-11eb-82e0-19588eccad3b.png)
+
+# [Day22](https://github.com/RxnAch/DeepLearning)
+
+Modern Convolution Neural Network:
+Networks Using Blocks (VGG):
+
+VGGNet is invented by Visual Geometry Group (by Oxford University). This architecture is the 1st runner up of ILSVR2014 in the classification task while the winner is GoogLeNet. The reason to understand VGGNet is that many modern image classification models are built on top of this architecture.
+
+The VGG Network can be partitioned into two parts: the first consisting mostly of convolutional and pooling layers and the second consisting of fully-connected layers.
+
+The original VGG network had 5 convolutional blocks, among which the first two have one convolutional layer each and the latter three contain two convolutional layers each. The first block has 64 output channels and each subsequent block doubles the number of output channels, until that number reaches 512. Since this network uses 8 convolutional layers and 3 fully-connected layers, it is often called VGG-11.
+![image](https://user-images.githubusercontent.com/60286478/123079870-0d3a8f80-d43c-11eb-90e2-13929fc1b77c.png)
+
