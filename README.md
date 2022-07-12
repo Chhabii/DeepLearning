@@ -1,7 +1,7 @@
 ![Untitled-1](https://user-images.githubusercontent.com/60286478/121725642-42c0ae00-cb09-11eb-854e-a9ebb320461e.jpg)
 
 
-# [100 Days of DeepLearning](https://github.com/RxnAch/DeepLearning)
+# [30 Days of DeepLearning](https://github.com/RxnAch/DeepLearning)
 
 | 📖 Books | 
 |------------ | 
